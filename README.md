@@ -1,1 +1,1 @@
-# do-setup
+# NGINX Set up on Digital Ocean
